@@ -1,0 +1,8 @@
+code git khó kinh dị
+cao thủ cũng fai bó tay
+Thay doi cho branch
+<<<<<<< HEAD
+Thay doi cho branch lan 2
+=======
+Thay doi cho branch lan 3
+>>>>>>> them thay doi cho branch lan 3
